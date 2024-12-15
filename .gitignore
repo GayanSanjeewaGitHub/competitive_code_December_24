@@ -160,3 +160,13 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+
+
+java/.idea
+
+java/code2/.idea
+java/code2/.target
+java/code2/src/apt
+java/code2/pom.xml
